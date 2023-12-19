@@ -1,0 +1,40 @@
+дек. 19, 2023 11:14:10 AM Main main
+INFO: Main run
+дек. 19, 2023 11:14:11 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init
+дек. 19, 2023 11:14:11 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init
+дек. 19, 2023 11:14:11 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init
+дек. 19, 2023 11:14:11 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:14:11 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:14:11 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:14:47 AM view.ViewToy run
+INFO: Command entered: n
+дек. 19, 2023 11:15:14 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:15:14 AM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+дек. 19, 2023 11:15:14 AM controller.ControllerToy saveToy
+INFO: Save toy (lolo)
+дек. 19, 2023 11:15:14 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:15:14 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:15:14 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:16:06 AM view.ViewToy run
+INFO: Command entered: r
+дек. 19, 2023 11:16:10 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:16:10 AM view.ViewToy run
+WARNING: Toy not found
+дек. 19, 2023 11:16:10 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:16:10 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
+дек. 19, 2023 11:16:10 AM model.FileOperationToy readAllLines
+INFO: All lines are readed
